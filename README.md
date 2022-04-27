@@ -25,7 +25,7 @@ Khi kết thúc báo cáo đồ án, con số nhận được khá ấn tượng
 Chưa thực sự là một web application tạo báo cáo động. Vì còn thiếu chức năng quan trọng nhất, đó chính là tính tổng khi người dùng muốn tính toàn bộ dữ liệu đã được in ra trên báo cáo. Ví dụ:
 
 |Vật tư|Số lượng|
-|------|--------|
+|------|--------:|
 |Sắt| 5000|
 |Thép|4000|
 
