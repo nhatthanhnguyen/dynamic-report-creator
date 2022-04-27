@@ -31,7 +31,7 @@ Chưa thực sự là một web application tạo báo cáo động. Vì còn th
 
 Người báo cáo muốn tính tổng số lượng của tất cả vật tư thì web application này chưa thể tạo ra được.
 
-Fact: Các bạn tham gia báo cáo đều không làm được chức năng này. Ngoài ra, query builder có một lỗi về group by, khi mình phát hiện thì cũng đã trễ, không thể khắc phục kịp trước khi nộp đồ án cho thầy.
+***Fact***: Các bạn tham gia báo cáo đều **không** làm được chức năng này. Ngoài ra, query builder có một lỗi về group by, khi mình phát hiện thì cũng đã trễ, không thể khắc phục kịp trước khi nộp đồ án cho thầy (nhưng về cơ bản là không khắc phục được vì đó là chức năng của người tạo DevExpress phát triển). Và có một công cụ có thể đảm bảo được mọi yêu cầu của thầy, mình đã tìm ra trước 1 tuần, nhưng không dám đưa vào vì nó hỗ trợ toàn bộ từ A-Z, như thế không khác gì hack game :))
 
 ## Một số hình ảnh của đồ án
 
