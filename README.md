@@ -53,4 +53,9 @@ Một ví dụ đơn giản
 
 ![image](https://user-images.githubusercontent.com/73063813/165458709-df0bddd9-5f92-4b7a-bda2-e56e5adb9c09.png)
 
-Ấn biểu tượng Save để có thể tạo báo cáo
+Báo cáo được tạo ngay sau khi ấn Save ở trên query builder
+
+![image](https://user-images.githubusercontent.com/73063813/165461325-222bca46-a2dc-4867-9eaf-b7df5b296957.png)
+
+Một ví dụ khi ta chọn To custom query ở trang chọn database
+
